@@ -18,3 +18,11 @@ __requirements__
 ```
 $ pip3 install -r requirements
 ```
+uma vez que as dependências foram instaladas não a mais necessidade do passo 3.1, basta ativar o ambiente no passo 2
+## 4. Executando o projeto
+```
+$ python3 xchg.py gamora_nebula.jpg
+```
+## 5. Resultado
+Após executado a saida esperada será a troca de pele entre gamora e a nebulosa
+![resultado](gamora_nebula.jpg)
