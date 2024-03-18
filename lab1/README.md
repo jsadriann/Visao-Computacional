@@ -24,5 +24,5 @@ uma vez que as dependências foram instaladas não a mais necessidade do passo 3
 $ python3 xchg.py gamora_nebula.jpg
 ```
 ## 5. Resultado
-Após executado a saida esperada será a troca de pele entre gamora e a nebulosa
-![resultado](gamora_nebula.jpg)
+Após executado a saida esperada será a troca de pele entre gamora e a nebulosa. Para realizar tal trabalho foi utilizado o parametro hue(h) do esquema de cores HSV.
+![resultado](result.png)
