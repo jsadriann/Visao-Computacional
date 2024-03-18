@@ -1,7 +1,7 @@
 # Descrições para executar o laboratório
 
 ## 1. Certifique-se de ter o python instalado
-    A implementação do lab1 foi implementada puramente no python versão 3
+    O lab1 foi implementado puramente no python versão 3
 
 ## 2. Ative o ambiente
 ```
